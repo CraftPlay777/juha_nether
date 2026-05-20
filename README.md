@@ -12,6 +12,8 @@ O......O
 OOOO
 x4 obsidian
 
+-- Github ruined my awesome chart, but it's basically 4 wide and 5 tall in total. 
+
 ## Nether
 The nether is generated between Y −5100 and Y −5000.
 
